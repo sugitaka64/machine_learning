@@ -1,0 +1,11 @@
+data/raw/*.csv
+data/training/*.csv
+data/predict/*.csv
+data/predict/*/*.csv
+model/*
+!model/.gitkeep
+__pycache__
+.DS_Store
+derby.log
+metastore_db
+work/*
